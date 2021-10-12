@@ -34,6 +34,9 @@ Siga os passos abaixo:
 # Instale as dependências
 $ yarn install --production
 
+# Gere o projeto
+$ yarn build
+
 # Inicie o projeto
 $ yarn start
 ```
@@ -99,6 +102,9 @@ Follow the steps below
 ```bash
 # Install the dependencies
 $ yarn install --production
+
+# Build project
+$ yarn build
 
 # Start the project
 $ yarn start
