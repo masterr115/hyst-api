@@ -3,7 +3,10 @@
 # 🇧🇷 Português
 
 <br>
-### Projeto
+
+### Project
+
+<br>
 Este projeto é baseado na consulta de API's brasileiras, formatando da melhor forma visual, bem como uma melhor busca.
 
 ---
@@ -66,7 +69,10 @@ BASEURL: https://localhost:8080/v1
 # 🇺🇸 ENGLISH
 
 <br>
+
 ### Project
+
+<br>
 This project is based on the consultation of Brazilian API's, formatting in the best visual way, as well as a better search.
 
 ---
