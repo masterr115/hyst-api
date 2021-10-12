@@ -1,8 +1,8 @@
 {
   "name": "HystAPI",
   "version": "1.0.0",
-  "description": "",
-  "main": "dist/server.js",
+  "description": "Open-source project to consultation of Brazilian APIs, formatting in the best visual way, as well as a better search.",
+  "main": "public/infra/http/server.js",
   "scripts": {
     "build": "babel src --extensions \".js,.ts\" --out-dir public --copy-files --no-copy-ignored",
     "start": "node public/infra/http/server.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Masterr115/HystAPI.git"
+    "url": "git+https://github.com/Masterr115/hyst-api.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "license": "MIT",
+  "author": "André Contiero <andre.contiero@yahoo.com.br>",
   "bugs": {
-    "url": "https://github.com/Masterr115/HystAPI/issues"
+    "url": "https://github.com/Masterr115/hyst-api/issues"
   },
-  "homepage": "https://github.com/Masterr115/HystAPI#readme",
+  "homepage": "https://github.com/Masterr115/hyst-api#readme",
   "dependencies": {
     "express-group-router": "^2.1.0",
     "express-rate-limit": "^5.2.6",
